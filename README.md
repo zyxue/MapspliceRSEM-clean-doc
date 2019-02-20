@@ -4,7 +4,7 @@ References:
 1. http://bsbludwig.com/post/94066296740/what-do-tcgas-rnaseq-files-actually-show#disqus_thread
 1. http://seqanswers.com/forums/showthread.php?t=42911
 
-**NOTE**: Below is just a reformatting of the pdf in the first link to make it easier to read, and edit (maybe).
+**NOTE: Below is just a reformatting of the pdf in the first link to make it easier to read, and edit (maybe).**
 
 -------------------------------------------------------------------------------
 
